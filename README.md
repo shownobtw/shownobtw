@@ -1,16 +1,37 @@
-### Hi there 👋
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/oOiwRjguRGkjbNQvNv/giphy.gif" width="200" />
+<h1 align="center"> Almighty Developer </h1>
+<h3 align="center"> A passionate djs developer. I like discord.js and java. 
+</h3>
+</div>
 
-<!--
-**almightybtw/almightybtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+<a href="" target="blank">
+<img alt="Almighty" src="https://img.shields.io/badge/-almighty-black">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/almightybtw?color=black&logoColor=black&style=social">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/almightybtw?color=black&logoColor=black&style=social">
+</a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            
+### 👨‍💻 About Me:
+- 📝 Developer in js, java, html and css 
+- 🤖 Working on MightBot
+- 📫 How to reach me almighty#3225
+- 🌱 Im currently learning djs
+
+<div align="left">
+<h3> Languages and Tools: </h3>
+    <div>
+        <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
+        <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/css3.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/javascript.svg" title="JAVASCRIPT" alt="JS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github_badge.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/>&nbsp;   
+        <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/visualstudio.svg" title="VS" alt="VISUALSTUDIO" width="40" height="40"/>&nbsp;   
+      </div>
+</div>
+
+---
+
