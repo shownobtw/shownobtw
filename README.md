@@ -7,6 +7,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/almightybtw/count.svg" />
 </p>
+<a href=#><img src="contributions.svg"></a>
 </div>
 
 <div id="badges" align="center">
