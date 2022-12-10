@@ -3,6 +3,10 @@
 <h1 align="center"> Almighty Developer </h1>
 <h3 align="center"> A passionate djs developer. I like discord.js and java. 
 </h3>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/almightybtw/count.svg" />
+</p>
 </div>
 
 <div id="badges" align="center">
