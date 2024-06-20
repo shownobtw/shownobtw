@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/oOiwRjguRGkjbNQvNv/giphy.gif" width="200" />
-<h1 align="center"> Almighty Developer </h1>
-<h3 align="center"> A passionate djs developer. I like discord.js and java. 
+<h1 align="center"> I'm Showno </h1>
+<h3 align="center"> I like Linux and coding!. 
 </h3>
 <p align="center"> 
   Visitor count<br>
@@ -22,9 +22,9 @@
 
             
 ### 👨‍💻 About Me:
-- 📝 Developer in js, java, html and css 
-- 🤖 Working on MightBot
-- 📫 How to reach me almighty#3225
+- 📝 Linux, Java, JavaScript, HTML
+- 🤖 Working on Me Projects
+- 📫 How to reach me shnpe
 - 🌱 Im currently learning djs
 
 <div align="left">
