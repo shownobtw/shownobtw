@@ -13,8 +13,8 @@
 <div id="badges" align="center">
 <a href="" target="blank">
 <img alt="Almighty" src="https://img.shields.io/badge/-almighty-black">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/shnbtw?color=black&logoColor=black&style=social">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shnbtw?color=black&logoColor=black&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shownobtw?color=black&logoColor=black&style=social">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shownobtw?color=black&logoColor=black&style=social">
 </a>
 </div>
 
@@ -46,6 +46,6 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almightybtw&theme=windows-dark&border=E4E2E2&background=0D1117&stroke=727478&ring=4B8DDA&fire=1C63D0&sideNums=C3D1D9&currStreakNum=C3D1D9&currStreakLabel=C3D1D9&sideLabels=C3D1D9&dates=C3D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shownobtw&theme=windows-dark&border=E4E2E2&background=0D1117&stroke=727478&ring=4B8DDA&fire=1C63D0&sideNums=C3D1D9&currStreakNum=C3D1D9&currStreakLabel=C3D1D9&sideLabels=C3D1D9&dates=C3D1D9)](https://git.io/streak-stats)
 
-![Almightybtw GitHub stats](https://github-readme-stats.vercel.app/api?username=almightybtw&show_icons=true&theme=github_dark)
+![shownobtw GitHub stats](https://github-readme-stats.vercel.app/api?username=shownobtw&show_icons=true&theme=github_dark)
